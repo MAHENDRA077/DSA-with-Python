@@ -1,4 +1,3 @@
-# DSA-with-Python
 
 # Python DSA – Practice Problems & Solutions
 
